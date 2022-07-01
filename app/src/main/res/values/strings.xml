@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">10119293_TugasSensor</string>
+    <string name="profile">Profile</string>
+    <string name="info">Info</string>
+    <string name="nim">NIM : 10119293</string>
+    <string name="nama">Nama : Dwi Irfansyah</string>
+    <string name="kelas">Kelas: IF7</string>
+    <string name="email">Email: dwiirfansyah1@gmail.com</string>
+    <string name="txt_welcome">Tugas Sensor</string>
+    <string name="txt_intro">UNIKOM 2022</string>
+    <string name="page1">Page 1 of 3</string>
+    <string name="page2">Page 2 of 3</string>
+    <string name="page3">Page 3 of 3</string>
+    <string name="memo">Selamat Datang</string>
+    <string name="about">Info Aplikasi</string>
+    <string name="penjelasan">Pergi ke halaman Location untuk melihat lokasimu saat ini dan lokasi makanan favoritmu
+    </string>
+    <string name="tentang">Aplikasi ini di buat untuk menunjukan lokasi anda sekarang dan juga menampilkan 5 tempat makanan favorit saya</string>
+</resources>
